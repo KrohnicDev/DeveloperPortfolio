@@ -21,3 +21,13 @@ Main objectives:
 - exploring different algorithms for the AI opponent (inspired by the legendary Rock Paper Scissors game in [Lintukoto](http://www.lintukoto.net/viihde/kps/index.php?valinta=3))
 
 ![](rockpaperscissors.gif)
+
+# Calculator
+
+[Calculator](https://github.com/KrohnicDev/Calculator) is a fully functional replicate of the classic iPhone calculator app. 
+
+Main objectives:
+- build an app that works with any screen size and orientation
+- implement full calculator functionality
+
+<img src="Pictures/calculator.png" alt="alt text" width=400 height=800>
