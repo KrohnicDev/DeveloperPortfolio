@@ -11,4 +11,6 @@ The game engine supports all possible board sizes. Only restriction is that rows
 
 The AI has two different strategies. For now, the selection is predefined in the code, but that could be easily changed in the future. AI works equally well with all possible board sizes.
 
+[](othello.gif)
+
 
