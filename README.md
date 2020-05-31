@@ -14,7 +14,7 @@ The AI has two different strategies. For now, the selection is predefined in the
 ![](othello.gif)
 
 # RockPaperScissors
-Rock-paper-scissors game with different levels of AI opponents. 
+[RockPaperScissors](https://github.com/KrohnicDev/RockPaperScissors) is a classic rock-paper-scissors game with different levels of AI opponents. 
 
 Main objectives:
 - trying out the new SwiftUI framework
