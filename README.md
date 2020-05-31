@@ -11,7 +11,7 @@ The game engine supports all possible board sizes. Only restriction is that rows
 
 The AI has two different strategies. For now, the selection is predefined in the code, but that could be easily changed in the future. AI works equally well with all possible board sizes.
 
-<img src="othello.gif" width="300">
+<img src="othello.gif" width="400">
 
 # RockPaperScissors
 [RockPaperScissors](https://github.com/KrohnicDev/RockPaperScissors) is a classic rock-paper-scissors game with different levels of AI opponents. 
@@ -20,7 +20,7 @@ Main objectives:
 - trying out the new SwiftUI framework
 - exploring different algorithms for the AI opponent (inspired by the legendary Rock Paper Scissors game in [Lintukoto](http://www.lintukoto.net/viihde/kps/index.php?valinta=3))
 
-<img src="rockpaperscissors.gif" width="300">
+<img src="rockpaperscissors.gif" width="400">
 
 # Calculator
 
@@ -30,4 +30,4 @@ Main objectives:
 - build an app that works with any screen size and orientation
 - implement full calculator functionality
 
-<img src="calculator.gif" width="300">
+<img src="calculator.gif" width="400">
