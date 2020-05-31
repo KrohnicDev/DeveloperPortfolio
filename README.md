@@ -4,7 +4,7 @@
 
 Main objectives:
 - fully customizable board
-- working AI that can beat regular human players
+- working AI that can beat regular-skilled human players
 - testing different input methods in UIKit (slider, picker, toggle)
 
 The game engine supports all possible board sizes. Only restriction is that rows and columns are multiples of 2, because otherwise the starting position couldn't be defined.
