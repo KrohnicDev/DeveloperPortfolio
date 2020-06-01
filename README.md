@@ -11,7 +11,7 @@ The game engine supports all possible board sizes. Only restriction is that rows
 
 The AI has two different strategies. For now, the selection is predefined in the code, but that could be easily changed in the future. AI works equally well with all possible board sizes.
 
-<img src="othello.png" height="600"> <img src="othello.gif" height="600">
+<img src="Pictures/othello_menu.png" height="500"> <img src="Pictures/othello_game.png" height="500"> <img src="Pictures/othello.gif" height="500">
 
 # RockPaperScissors
 [RockPaperScissors](https://github.com/KrohnicDev/RockPaperScissors) is a classic rock-paper-scissors game with different levels of AI opponents. 
