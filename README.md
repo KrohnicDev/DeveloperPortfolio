@@ -18,7 +18,7 @@ The AI knows two different strategies. For now, the selection is predefined in t
 [RockPaperScissors](https://github.com/KrohnicDev/RockPaperScissors) is a classic rock-paper-scissors game with different levels of AI opponents. 
 
 Main objectives:
-- trying out the new SwiftUI framework
+- trying out the new SwiftUI framework (100% programmatic UI)
 - exploring different algorithms for the AI opponent (inspired by the legendary Rock Paper Scissors game in [Lintukoto](http://www.lintukoto.net/viihde/kps/index.php?valinta=3))
 
 <img src="Pictures/rps_local.png" height="400"> <img src="Pictures/rps_ai.png" height="400"> <img src="Pictures/rockpaperscissors.gif" height="400">
