@@ -30,4 +30,4 @@ Main objectives:
 - build an app that works with any screen size and orientation
 - implement full calculator functionality
 
-<img src="Pictures/calculator_leet.png" height="400"> <img src="Pictures/calculator_decimal.png" height="400"> <img src="calculator.gif" height="400">
+<img src="Pictures/calculator_leet.png" height="400"> <img src="Pictures/calculator_decimal.png" height="400"> <img src="Pictures/calculator.gif" height="400">
