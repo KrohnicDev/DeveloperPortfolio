@@ -31,6 +31,6 @@ Main objectives:
 - build an app that works with any screen size and orientation
 - implement full calculator functionality
 
-I built this app as part of an iOS development course in Udemy. The lesson was mainly about auto-layout, so the calculator functionality was an optional bonus assignment.
+I built this app as part of an [iOS development course in Udemy](https://www.udemy.com/course/ios-13-app-development-bootcamp/). The lesson was mainly about auto-layout, so the calculator functionality was an optional bonus assignment.
 
 <img src="Pictures/calculator_leet.png" height="400"> <img src="Pictures/calculator_decimal.png" height="400"> <img src="Pictures/calculator.gif" height="400">
