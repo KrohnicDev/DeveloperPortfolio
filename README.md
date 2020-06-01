@@ -9,7 +9,7 @@ Main objectives:
 
 The game engine supports all possible board sizes. Only restriction is that rows and columns are multiples of 2, because otherwise the starting position couldn't be defined. The slider currently forces the board into a square shape, but that is not required for the game to work.
 
-The AI has two different strategies. For now, the selection is predefined in the code, but that could be easily changed in the future. AI works equally well with all possible board sizes.
+The AI knows two different strategies. For now, the selection is predefined in the code, but that could be easily changed in the future. AI works equally well with all possible board sizes.
 
 <img src="Pictures/othello_menu.png" height="400"> <img src="Pictures/othello_game.png" height="400"> <img src="Pictures/othello.gif" height="400">
 
