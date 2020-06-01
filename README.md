@@ -25,7 +25,7 @@ Main objectives:
 
 # Calculator
 
-[Calculator](https://github.com/KrohnicDev/Calculator) is a fully functional replicate of the classic iPhone calculator app. 
+[Calculator](https://github.com/KrohnicDev/Calculator) is a fully functional replicate of the classic iPhone calculator app. I built it as part of an iOS development course in Udemy. The lesson was mainly about auto-layout, so the calculator functionality was an optional extra assignment.
 
 Main objectives:
 - build an app that works with any screen size and orientation
