@@ -20,7 +20,7 @@ Main objectives:
 - trying out the new SwiftUI framework
 - exploring different algorithms for the AI opponent (inspired by the legendary Rock Paper Scissors game in [Lintukoto](http://www.lintukoto.net/viihde/kps/index.php?valinta=3))
 
-<img src="rockpaperscissors.gif" width="400">
+<img src="Pictures/rps_local.png" height="400"> <img src="Pictures/rps_ai.png" height="400"> <img src="Pictures/rockpaperscissors.gif" height="400">
 
 # Calculator
 
@@ -30,4 +30,4 @@ Main objectives:
 - build an app that works with any screen size and orientation
 - implement full calculator functionality
 
-<img src="calculator.gif" width="400">
+<img src="Pictures/calculator_leet.png" height="400"> <img src="Pictures/calculator_decimal.png" height="400"> <img src="calculator.gif" height="400">
