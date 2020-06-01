@@ -6,6 +6,7 @@ Main objectives:
 - fully customizable board
 - working AI that can beat regular-skilled human players
 - testing different input methods in UIKit (slider, picker, toggle)
+- taking advantage of the knowledge gained from building [Ristinolla](https://github.com/KrohnicDev/Ristinolla)
 
 The game engine supports all possible board sizes. Only restriction is that rows and columns are multiples of 2, because otherwise the starting position couldn't be defined. The slider currently forces the board into a square shape, but that is not required for the game to work.
 
