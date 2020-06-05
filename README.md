@@ -5,7 +5,7 @@
 - swipe-to-delete
 - data persistance (with Realm)
 
-<img src="Pictures/todoey.gif" height="400">
+<img src="Pictures/todoey_list.png" height="400"> <img src="Pictures/todoey_add.png" height="400"> <img src="Pictures/todoey.gif" height="400">
 
 # Othello
 
