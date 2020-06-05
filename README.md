@@ -1,3 +1,12 @@
+# Todoey
+
+[Todoey](https://github.com/KrohnicDev/Todoey) is a basic to-do-list application with following features:
+- categorization
+- swipe-to-delete
+- data persistance (with Realm)
+
+<img src="Pictures/todoey.gif" height="400">
+
 # Othello
 
 [Othello](https://github.com/KrohnicDev/Othello) is classic Othello game with customization, local multiplayer, and a simple AI opponent.
