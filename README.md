@@ -1,6 +1,8 @@
 # Todoey
 
-[Todoey](https://github.com/KrohnicDev/Todoey) is a basic to-do-list application with following features:
+[Todoey](https://github.com/KrohnicDev/Todoey) is a basic to-do-list application. 
+
+Features:
 - categorization
 - swipe-to-delete
 - data persistance (with Realm)
